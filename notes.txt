@@ -1,0 +1,7 @@
+Classes:
+	Customer - public basic class
+	Transaction - abstract base class
+		DepartmentStoreTransaction - derived
+		BankingTransaction - derived
+		GroceryTransaction - derived
+
